@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://ScottSallinen.github.io/sitemap.xml 
